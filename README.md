@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux, TypeScript**
 
-- 💬 Ask me about **React, Nodejs, ExpressJs**
+- 💬 Ask me about **Competitive Programming, Data structures & Algorithms and Web Frameworks**
 
 - 📫 How to reach me **Arinaymay.bhaskar.7500@gmail.com**
 
