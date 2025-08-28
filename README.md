@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arinaymay Bhaskar</h1>
-<h3 align="center">A passionate fullstack developer from India.</h3>
+<h3 align="center">A passionate Fullstack AI developer from India.</h3>
 
-- 🔭 I’m currently working on [CodeBase](https://github.com/Arinaymaybhaskar/CodeBase)
+- 🔭 I’m currently working on [MindSage]([https://github.com/Arinaymaybhaskar/CodeBase](https://github.com/Arinaymaybhaskar/MindSage_desktop_app))
 
-- 🌱 I’m currently learning **Redux, TypeScript**
+- 🌱 I’m currently learning **Ai chatbots and RAG pipelines**
 
-- 💬 Ask me about **Competitive Programming, Data structures & Algorithms and Web Frameworks**
+- 💬 Ask me about **Building scalable designs, Data structures & Algorithms, web frameworks **
 
 - 📫 How to reach me **Arinaymay.bhaskar.7500@gmail.com**
-
-- ⚡ Fun fact **I think I can code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
