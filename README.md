@@ -72,7 +72,7 @@
     <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/>
   </span>
   <span style="background-color:#f0f9ff; padding:8px; border-radius:8px; margin:4px;">
-    <img src="[https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png](https://ollama.com/public/ollama.png)" alt="Ollama" width="40" height="40"/>
+    <img src="https://ollama.com/public/ollama.png)](https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" alt="Ollama" width="40" height="40"/>
   </span>
   <span style="background-color:#f0f9ff; padding:8px; border-radius:8px; margin:4px;">
     <img src="https://qdrant.tech/img/qdrant-logo.svg" alt="Qdrant" width="100" height="40"/>
@@ -80,9 +80,7 @@
   <span style="background-color:#f0f9ff; padding:8px; border-radius:8px; margin:4px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS S3" width="40" height="40"/>
   </span>
-  <span style="background-color:#f0f9ff; padding:8px; border-radius:8px; margin:4px;">
-    🎙️ MediaRecorder API
-  </span>
+
 </p>
 
 #### 🎨 Other Tools
