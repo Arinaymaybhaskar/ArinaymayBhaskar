@@ -75,7 +75,7 @@
     <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" width="40" height="40"/>
   </span>
   <span style="background-color:#f0f9ff; padding:8px; border-radius:8px; margin:4px;">
-    <img src="https://qdrant.tech/images/logo_with_text.svg" alt="Qdrant" width="100" height="40"/>
+    <img src="https://qdrant.tech/img/qdrant-logo.svg" alt="Qdrant" width="100" height="40"/>
   </span>
   <span style="background-color:#f0f9ff; padding:8px; border-radius:8px; margin:4px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS S3" width="40" height="40"/>
