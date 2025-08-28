@@ -72,7 +72,7 @@
     <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/>
   </span>
   <span style="background-color:#f0f9ff; padding:8px; border-radius:8px; margin:4px;">
-    <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" width="40" height="40"/>
+    <img src="[https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png](https://ollama.com/public/ollama.png)" alt="Ollama" width="40" height="40"/>
   </span>
   <span style="background-color:#f0f9ff; padding:8px; border-radius:8px; margin:4px;">
     <img src="https://qdrant.tech/img/qdrant-logo.svg" alt="Qdrant" width="100" height="40"/>
