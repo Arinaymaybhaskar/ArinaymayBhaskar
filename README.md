@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 - Currently working on [MindSage](https://github.com/Arinaymaybhaskar/MindSage_desktop_app)  
 - Learning **AI chatbots & RAG pipelines**  
 - Ask me about **scalable system design, data structures & algorithms, and modern web frameworks**  
@@ -11,7 +11,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/arinaymay" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
