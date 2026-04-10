@@ -1,29 +1,79 @@
-<h1 align="center">Hi 👋, I'm Arinaymay Bhaskar</h1>
-<h3 align="center">A passionate Fullstack AI Developer from India</h3>
+<div align="center">
+
+# Arinaymay Bhaskar  
+### Fullstack Engineer building AI-first systems
+
+</div>
 
 ---
 
-### About Me
-- Currently working on [MindSage](https://github.com/Arinaymaybhaskar/MindSage_desktop_app)  
-- Learning **AI chatbots & RAG pipelines**  
-- Ask me about **scalable system design, data structures & algorithms, and modern web frameworks**  
-- Reach me at **Arinaymay.bhaskar.7500@gmail.com**
+## Architecture Mindset
+
+I don’t just build features. I design systems that scale, fail gracefully, and evolve.
+
+- Strong focus on backend architecture and system design  
+- Experience translating product ideas into production-ready systems  
+- Preference for clarity, performance, and debuggability over abstraction-heavy code  
 
 ---
 
-### Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/arinaymay" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/arinaymay" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.codechef.com/users/arinaymay" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40"/>
-  </a>
-  <a href="https://www.leetcode.com/arinaymay" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-  </a>
-</p>
+## Current Work
 
+**MindSage (Offline AI Journaling System)**  
+A privacy-first, fully offline AI application focused on introspection and intelligent insights.
+
+- Local-first architecture with no cloud dependency  
+- AI-powered journaling with sentiment and behavioral insights  
+- Exploring on-device intelligence and efficient model pipelines  
+
+Repository:  
+https://github.com/Arinaymaybhaskar/MindSage_desktop_app
+
+---
+
+## Technical Focus
+
+- **AI Systems**  
+  Retrieval-Augmented Generation, chatbot architectures, local inference pipelines  
+
+- **Backend Engineering**  
+  Microservices, API design, data modeling, fault tolerance  
+
+- **Frontend Engineering**  
+  React + TypeScript, state management via Context API, performance-first UI  
+
+- **Core CS**  
+  Data Structures, Algorithms, and system-level tradeoffs  
+
+---
+
+## Engineering Principles
+
+- Every abstraction must justify its cost  
+- Systems should degrade, not collapse  
+- Code should be easy to debug under pressure  
+- Premature optimization is noise, but ignoring scale is negligence  
+
+---
+
+## Connect
+
+- Portfolio: https://arinaymay.vercel.app  
+- LinkedIn: https://linkedin.com/in/arinaymay  
+- Instagram: https://instagram.com/arinaymay  
+- CodeChef: https://www.codechef.com/users/arinaymay  
+- LeetCode: https://www.leetcode.com/arinaymay  
+
+---
+
+## Contact
+
+Arinaymay.bhaskar.7500@gmail.com
+
+---
+
+<div align="center">
+
+Design for scale. Build for failure. Optimize for clarity.
+
+</div>
